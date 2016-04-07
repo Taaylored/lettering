@@ -1,0 +1,47 @@
+h3 {
+  width: 200px;
+  background: whote;
+  color: orange;
+  border: 5px solid orange;
+  font-size: 3em;
+  margin: 1em auto 0 auto;
+  padding: 1.5em;
+  text-align: left;
+  
+}
+.line1, 
+.line2, 
+.line3 {
+display: block; 
+  text-transform: uppercase;
+  
+}
+
+.line1 {
+  border-bottom: 5px solid orange;
+}
+.line2 {
+    border-bottom: 5px solid orange;
+}
+
+.line3 {
+  letter-spacing: 20px;
+  font-size: 1.5em;
+}
+
+/* Main Title*/
+
+#title {
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+    letter-spacing: 8px;
+    font-size: 4em;
+    color: coral;
+}
+
+.char1, 
+.char3,
+.char5 {
+  color: orange
+}
